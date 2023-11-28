@@ -1,6 +1,6 @@
 <?php
  
-namespace Ivanp86\LaraPackage\Services;
+namespace Ivanp86\LaraPackageNew\Services;
 
 use Illuminate\Support\Facades\Cache;
 

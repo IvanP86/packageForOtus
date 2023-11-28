@@ -1,6 +1,6 @@
 <?php
 
-namespace Ivanp86\LaraPackage;
+namespace Ivanp86\LaraPackageNew;
 
 use Illuminate\Support\ServiceProvider;
 
