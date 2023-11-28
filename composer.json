@@ -1,0 +1,12 @@
+{
+    "name": "ivanp86/lara-package-new",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ivanp86\\LaraPackageNew\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "^10.10"
+    }
+}
